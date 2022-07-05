@@ -7,7 +7,7 @@ Data Engineer / Software Engineer
 * 🌍  I'm based in Philadelphia, PA
 * ✉️  You can contact me at [andrewkigara@gmail.com](mailto:andrewkigara@gmail.com)
 * 🧠  I'm learning C# and pursuing an AWS Developer Associate certification
-* 🤝  I'm open to collaborating on I'm open to Software Engineering, DevOps Engineering and Data Engineering full-time positions for June/July 2024
+* 🤝  I'm open to Software Engineering, DevOps Engineering and Data Engineering full-time positions for June/July 2024
 * ⚡  I'm a hobbyist photographer and I enjoy hiking!
 
 ### Skills
