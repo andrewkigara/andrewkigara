@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer / Software Engineer
 ---------------------------------
 
-* 🌍  I'm based in Philadelphia, PA
+* 🌍  I'm based in Baltimore, MD
 * ✉️  You can contact me at [andrewmkigara@gmail.com](mailto:andrewmkigara@gmail.com)
-* 🧠  I'm learning C# and pursuing an AWS Developer Associate certification
-* 🤝  I'm open to Software Engineering, DevOps Engineering and Data Engineering full-time positions for June/July 2024
+* 🧠  I'm a full-time C# and React developer 
+* 🤝  I'm always open to new connections and networking in the Software Engineering space
 * ⚡  I'm a hobbyist photographer and I enjoy hiking!
 
 ### Skills
